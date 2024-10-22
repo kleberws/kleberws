@@ -1,5 +1,5 @@
 # Olá! Eu sou o Kleber Souza.
-# Bem vindo ao meu perfil do Github!
+
 <ul>
   <li>💻 Sistemas de Informação na Universidade da Região de Joinville.</li>
   <li>🔵 Trabalhando em infra como aprendiz na Conta Azul.</li>
