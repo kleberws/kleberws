@@ -2,7 +2,7 @@
 
 <ul>
   <li>💻 Sistemas de Informação na Universidade da Região de Joinville.</li>
-  <li>🔵 Trabalhando em infra como aprendiz na Conta Azul.</li>
+  <li>🔵 Trabalho em T.I na BMW.</li>
 </ul>
 <br>
 <h1>💡Estou aprendendo:</h1>
