@@ -2,7 +2,7 @@
 
 <ul>
   <li>💻 Sistemas de Informação na Universidade da Região de Joinville.</li>
-  <li>🔵 Estágiario de T.I na BMW.</li>
+  <li>🔵 Desenvolvedor On-Demand </li>
 </ul>
 <br>
 <h1>💡Estou aprendendo:</h1>
